@@ -1,0 +1,30 @@
+{
+  "id": "3390724",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27690384",
+      "name": "小老鼠",
+      "font_class": "xiaolaoshu",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "27693868",
+      "name": "小狗子",
+      "font_class": "xiaogouzi",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "27693941",
+      "name": "小猫猫",
+      "font_class": "xiaomaomao",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    }
+  ]
+}
